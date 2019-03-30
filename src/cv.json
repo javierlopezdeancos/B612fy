@@ -1,0 +1,198 @@
+{
+  "personal_information": {
+    "name": "Javier",
+    "surname": "López de Ancos",
+    "description": "Software Engineer",
+    "contact": {
+      "emails": [
+        {
+          "gmail": "javierlopezdeancos",
+          "outlook": "javierlopezdeancos"
+        }
+      ],
+      "phone": {
+        "number": "667493086",
+        "prefix": "+34"
+      }
+    },
+    "pictureUrl": "https://avatars1.githubusercontent.com/u/1202463",
+    "profileId": "javierland",
+    "nationality": "Spanish",
+    "dateBirth": "01/01/1977",
+    "socialNetworks": [
+      {
+        "network": "twitter",
+        "profile": "https://twitter.com/javierland"
+      },
+      {
+        "network": "linkedin",
+        "profile": "https://www.linkedin.com/in/javierlopezdeancos/"
+      },
+      {
+        "network": "github",
+        "profile": "https://github.com/javierlopezdeancos"
+      },
+      {
+        "network": "spotify",
+        "profile": "https://open.spotify.com/user/vagabundo"
+      }
+    ]
+  },
+  "degrees": [
+    {
+      "level": "Hight education",
+      "title": "Advertising Graphic Design in Art School of Toledo",
+      "year": "2007"
+    },
+    {
+      "level": "Degree",
+      "title": "Technical Electronic Engineer",
+      "year": "2003"
+    }
+  ],
+  "profesionalExperience": [
+    {
+      "company": "Zartis",
+      "description": "Front-end Developer & UX Consultant & UI Engineer & Javascript Architect",
+      "period": "from January 2017  to present"
+    },
+    {
+      "company": "Packlink",
+      "description": "Team Lead & Front-end Developer & UX Consultant & UI Engineer & Javascript Architect",
+      "period": "from March 2015  to January 2017"
+    },
+    {
+      "company": "Rumbo Bravofly Lastminute",
+      "description": "Team Lead & Front-end Developer & UX Consultant & UI Engineer",
+      "period": "from February 2013  to March 2015"
+    },
+    {
+      "company": "At Sistemas",
+      "description": "Front-end Developer & UX Consultant & UI Engineer",
+      "period": "from August  2012  to February 2013"
+    },
+    {
+      "company": "Medianet Sngular",
+      "description": "Front-end Developer & UX Consultant & UI Engineer",
+      "period": "from January 2012  to February 2013"
+    },
+    {
+      "company": "Junta de comunidades de Castilla La Mancha",
+      "description": "Front-end Developer & UX Consultant",
+      "period": "from January 2010  to January 2012"
+    },
+    {
+      "company": "Freelance",
+      "description": "Designer and web developer",
+      "period": "from January 2007  to January 2010"
+    }
+  ],
+  "additionalCourses": {
+    "online_certificates": [
+      {
+        "description": "Certificated for MongoDB for DBAs",
+        "year": "2013"
+      },
+      {
+        "description": "Certificated for MongoDB for Node.js Developers",
+        "year": "2013"
+      }
+    ],
+    "workshops": [
+      {
+        "description": "Workshop 6 hrs HTML5 y CSS3 in ‘master .D’ academy",
+        "year": "2011"
+      },
+      {
+        "description": "Design and web development 200 hrs, flash actionscript, php, mysql...",
+        "year": "2006"
+      },
+      {
+        "description": "FlashMx development Aula Mentor",
+        "year": "2005"
+      }
+    ]
+  },
+  "skills": {
+    "programs": [
+      "Adobe Suite",
+      "Figma",
+      "Ilustrator",
+      "Photoshop",
+      "Sketchapp"
+    ],
+    "codeLanguages": {
+      "senior": ["HTML5", "CSS3/4/Next", "Javascript vanilla/ES5/ES6/Next"],
+      "junior": ["c", "c++", "golang", "nodejs", "php"]
+    },
+    "prePostProcessors": [
+      "babel",
+      "coffeescript",
+      "less",
+      "postCSS",
+      "sass",
+      "stylus",
+      "typescript"
+    ],
+    "cms": ["drupal", "gatsby", "hugo", "jekill", "magento", "wordpress"],
+    "bdd": ["mongodb", "mysql", "firebase"],
+    "frameworks": ["angular1/2/4/x", "backbone"],
+    "libraries": [
+      "bower",
+      "browserify",
+      "closure compiler",
+      "dojo",
+      "enzyme",
+      "express",
+      "grunt",
+      "gulp",
+      "handlebars",
+      "inversify",
+      "jasmine",
+      "jest",
+      "jQuery",
+      "mocha",
+      "npm",
+      "parcel",
+      "react",
+      "redux",
+      "require.js",
+      "rollup",
+      "sinon",
+      "underscore",
+      "webpack1/2/x",
+      "yarn"
+    ],
+    "standards": {
+      "apis": [
+        "cache",
+        "custom elements",
+        "notification",
+        "progressive web application",
+        "webSockets",
+        "localStorage"
+      ]
+    },
+    "controlVersion": ["svn", "git", "github", "bitbucket", "gitlab"],
+    "extraBall": [
+      "accessibility",
+      "clean code",
+      "cross-browser",
+      "tdd",
+      "web standards lover"
+    ]
+  },
+  "languages": ["spanish", "english", "french"],
+  "projects": [
+    "Cuoore framework",
+    "GDG Toledo Meetup",
+    "Kairoslab",
+    "BBVA",
+    "Castillalamancha.es",
+    "Rumbo",
+    "Packlink",
+    "Packllink Pro",
+    "envios.ebay.es",
+    "Valant"
+  ]
+}

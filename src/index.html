@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>B612fy</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Code+Pro|Space+Mono"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="app.css" />
+  </head>
+
+  <body>
+    <main>
+      <cuoore-process-running></cuoore-process-running>
+      <cuoore-loading running="true"></cuoore-loading>
+      <cuoore-success play="false"></cuoore-success>
+    </main>
+
+    <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.9.1/firebase-database.js"></script>
+    <script type="module" src="./components/cuoore-process-runnig.mjs"></script>
+    <script type="module" src="./components/cuoore-loading.mjs"></script>
+    <script type="module" src="./components/cuoore-success.mjs"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

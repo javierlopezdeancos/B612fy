@@ -1,0 +1,22 @@
+{
+  "name": "b612fy",
+  "version": "0.1.0",
+  "description": "Application to save a CV developer data in firebase",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierlopezdeancos/Homenaje-a-movieFire.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "Javier López de Ancos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierlopezdeancos/Homenaje-a-movieFire/issues"
+  },
+  "homepage": "https://github.com/javierlopezdeancos/Homenaje-a-movieFire#readme"
+}

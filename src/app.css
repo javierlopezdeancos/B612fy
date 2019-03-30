@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: "Source Code Pro", sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
